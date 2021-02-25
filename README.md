@@ -1,1 +1,2 @@
 # Page-Rank-using-Parallel-processing
+PageRank becomes the most well-known re-ranking technique of the search results. By its iterative computational nature, the computation takes much computing time and resource. Researchers have then devoted much attention in studying an efficient way to compute the PageRank scores of a very large Web graph. However, only a few of them focus on large-scale PageRank computation using parallel processing techniques.
